@@ -1,0 +1,20 @@
+Subject: Application for a graduate student position
+
+
+Dear Prof. Liu,
+
+I am Khalid Bin Salahuddin, a recent BSc graduate in Computer Science and Engineering 
+from the East West University, Dhaka, Bangladesh (April 2017). I am writing to express
+my interest to join Your research group as a graduate (MSc/PhD) student from the fall
+(September) of 2018 academic year.  
+
+I took the liberty to familiarize myself with Your scholarly works, and Your current 
+research interests in multimedia content processing and communications, wireless mobile
+networking, RFID, cloud and big data, online gaming and social networking, and P2P
+networking have particularly captured my attention. I read through some of your published
+works such as, CrowdTranscoding: Online Video Transcoding
+with Massive Viewers (IEEE Transactions on Multimedia, vol. 19, no. 6, pp. 1365-1375, June 2017)
+and CrowdNavi: Demystifying Last Mile Navigation with Crowdsourced Driving Information
+(IEEE Transactions on Industrial Informatics, vol. 13, no. 2, pp. 771-781, April. 2017)
+that depict, investigate and address some of the most intriguing issues of our time. These
+topics fall well in line with my current research interests. 
